@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.taouisdk</groupId>
   <artifactId>aar</artifactId>
-  <version>1.3.6</version>
+  <version>1.3.7</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>taohuitao-android</groupId>
+      <groupId>com.comres</groupId>
       <artifactId>aar</artifactId>
-      <version>unspecified</version>
+      <version>1.1.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
